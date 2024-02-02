@@ -1,27 +1,29 @@
-# AngularProject
+## Rotten Zomatoes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.2.
+Project
 
-## Development server
+🇬🇧 English  
+This application was created and developed as a review of the concepts and working methodology of Angular, it is a Single Page Application for movie reviews, where the user can leave their rating of the respective movie in addition to a score associated with it.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+[ ] Angular
+[ ] Bootsrap
 
-## Code scaffolding
+February 2024. 🚀
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
 
-## Build
+🇪🇸 Español  
+Esta aplicacion fue creada y desarrollada como repaso de los conceptos y metodologia de trabajo de Angular, es una Single Page Application de reviews de peliculas, donde el usuario puede dejar su valoracion de la respectiva pelicula ademas de una puntuacion asociada a la misma.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+[ ] Angular
+[ ] Bootsrap
 
-## Running unit tests
+Febrero de 2024. 🚀
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Screenshots
 
-## Running end-to-end tests
+![App Screenshot](./src/assets/images/project-movies.png)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Demo
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+[Link]
